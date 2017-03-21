@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (mean filter.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\pc\documents\visual studio 2015\projects\histogram equalization\mean filter\main.cpp(24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\pc\documents\visual studio 2015\projects\histogram equalization\mean filter\main.cpp(41): warning C4244: 'argument': conversion from 'double' to 'unsigned __int64', possible loss of data
+c:\users\pc\documents\visual studio 2015\projects\histogram equalization\mean filter\main.cpp(74): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+  mean filter.vcxproj -> C:\Users\PC\Documents\Visual Studio 2015\Projects\histogram equalization\x64\Debug\histeq.exe
+  mean filter.vcxproj -> C:\Users\PC\Documents\Visual Studio 2015\Projects\histogram equalization\x64\Debug\histeq.pdb (Partial PDB)
